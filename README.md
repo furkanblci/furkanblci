@@ -1,6 +1,6 @@
 <img src="banner.png" alt="Furkan Balcı — Game Developer · Unity / C#" width="100%">
 
-# Hi, I'm Furkan 👋
+# Hi, I'm Furkan 
 
 **Game Developer · Unity / C#** — Digital Game Design graduate from Istanbul Topkapı University.
 I build gameplay mechanics and game systems in C#, with a growing focus on mobile.
@@ -10,7 +10,7 @@ I build gameplay mechanics and game systems in C#, with a growing focus on mobil
 - 📱 Lately focused on **mobile game development & optimization**
 - 🌐 Portfolio: **[furkanblci.github.io](https://furkanblci.github.io)**
 
-### 🛠️ Tech & Tools
+###  Tech & Tools
 
 ![Unity](https://img.shields.io/badge/Unity-8b5cf6?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-8b5cf6?style=for-the-badge&logo=csharp&logoColor=white)
@@ -21,7 +21,7 @@ I build gameplay mechanics and game systems in C#, with a growing focus on mobil
 ![Rider](https://img.shields.io/badge/Rider-8b5cf6?style=for-the-badge&logo=rider&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-8b5cf6?style=for-the-badge&logo=blender&logoColor=white)
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 | Project | What it is |
 | --- | --- |
@@ -31,7 +31,7 @@ I build gameplay mechanics and game systems in C#, with a growing focus on mobil
 | **[Devil Journey](https://furkanbalci.itch.io/devil-journey)** 🏆 | 2D puzzle-platformer · Best Mechanic Design award |
 | **[Stock Match](https://ibrahim-gumusdal.itch.io/udo-stock-match)** | Mobile triple-match puzzle · UDO Games internship |
 
-➡️ **20+ games and more on [itch.io](https://furkanbalci.itch.io)**
+ **20+ games and more on [itch.io](https://furkanbalci.itch.io)**
 
 ### 🔗 Links
 
